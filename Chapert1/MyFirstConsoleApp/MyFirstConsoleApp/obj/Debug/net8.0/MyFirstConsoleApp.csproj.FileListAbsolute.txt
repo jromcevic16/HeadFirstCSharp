@@ -1,0 +1,14 @@
+D:\HeadFirstC#\Chapert1\MyFirstConsoleApp\MyFirstConsoleApp\bin\Debug\net8.0\MyFirstConsoleApp.exe
+D:\HeadFirstC#\Chapert1\MyFirstConsoleApp\MyFirstConsoleApp\bin\Debug\net8.0\MyFirstConsoleApp.deps.json
+D:\HeadFirstC#\Chapert1\MyFirstConsoleApp\MyFirstConsoleApp\bin\Debug\net8.0\MyFirstConsoleApp.runtimeconfig.json
+D:\HeadFirstC#\Chapert1\MyFirstConsoleApp\MyFirstConsoleApp\bin\Debug\net8.0\MyFirstConsoleApp.dll
+D:\HeadFirstC#\Chapert1\MyFirstConsoleApp\MyFirstConsoleApp\bin\Debug\net8.0\MyFirstConsoleApp.pdb
+D:\HeadFirstC#\Chapert1\MyFirstConsoleApp\MyFirstConsoleApp\obj\Debug\net8.0\MyFirstConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\HeadFirstC#\Chapert1\MyFirstConsoleApp\MyFirstConsoleApp\obj\Debug\net8.0\MyFirstConsoleApp.AssemblyInfoInputs.cache
+D:\HeadFirstC#\Chapert1\MyFirstConsoleApp\MyFirstConsoleApp\obj\Debug\net8.0\MyFirstConsoleApp.AssemblyInfo.cs
+D:\HeadFirstC#\Chapert1\MyFirstConsoleApp\MyFirstConsoleApp\obj\Debug\net8.0\MyFirstConsoleApp.csproj.CoreCompileInputs.cache
+D:\HeadFirstC#\Chapert1\MyFirstConsoleApp\MyFirstConsoleApp\obj\Debug\net8.0\MyFirstConsoleApp.dll
+D:\HeadFirstC#\Chapert1\MyFirstConsoleApp\MyFirstConsoleApp\obj\Debug\net8.0\refint\MyFirstConsoleApp.dll
+D:\HeadFirstC#\Chapert1\MyFirstConsoleApp\MyFirstConsoleApp\obj\Debug\net8.0\MyFirstConsoleApp.pdb
+D:\HeadFirstC#\Chapert1\MyFirstConsoleApp\MyFirstConsoleApp\obj\Debug\net8.0\MyFirstConsoleApp.genruntimeconfig.cache
+D:\HeadFirstC#\Chapert1\MyFirstConsoleApp\MyFirstConsoleApp\obj\Debug\net8.0\ref\MyFirstConsoleApp.dll
