@@ -1,0 +1,14 @@
+D:\HeadFirstC#\Chapter4\ElephantSwap\ElephantSwap\bin\Debug\net8.0\ElephantSwap.exe
+D:\HeadFirstC#\Chapter4\ElephantSwap\ElephantSwap\bin\Debug\net8.0\ElephantSwap.deps.json
+D:\HeadFirstC#\Chapter4\ElephantSwap\ElephantSwap\bin\Debug\net8.0\ElephantSwap.runtimeconfig.json
+D:\HeadFirstC#\Chapter4\ElephantSwap\ElephantSwap\bin\Debug\net8.0\ElephantSwap.dll
+D:\HeadFirstC#\Chapter4\ElephantSwap\ElephantSwap\bin\Debug\net8.0\ElephantSwap.pdb
+D:\HeadFirstC#\Chapter4\ElephantSwap\ElephantSwap\obj\Debug\net8.0\ElephantSwap.GeneratedMSBuildEditorConfig.editorconfig
+D:\HeadFirstC#\Chapter4\ElephantSwap\ElephantSwap\obj\Debug\net8.0\ElephantSwap.AssemblyInfoInputs.cache
+D:\HeadFirstC#\Chapter4\ElephantSwap\ElephantSwap\obj\Debug\net8.0\ElephantSwap.AssemblyInfo.cs
+D:\HeadFirstC#\Chapter4\ElephantSwap\ElephantSwap\obj\Debug\net8.0\ElephantSwap.csproj.CoreCompileInputs.cache
+D:\HeadFirstC#\Chapter4\ElephantSwap\ElephantSwap\obj\Debug\net8.0\ElephantSwap.dll
+D:\HeadFirstC#\Chapter4\ElephantSwap\ElephantSwap\obj\Debug\net8.0\refint\ElephantSwap.dll
+D:\HeadFirstC#\Chapter4\ElephantSwap\ElephantSwap\obj\Debug\net8.0\ElephantSwap.pdb
+D:\HeadFirstC#\Chapter4\ElephantSwap\ElephantSwap\obj\Debug\net8.0\ElephantSwap.genruntimeconfig.cache
+D:\HeadFirstC#\Chapter4\ElephantSwap\ElephantSwap\obj\Debug\net8.0\ref\ElephantSwap.dll

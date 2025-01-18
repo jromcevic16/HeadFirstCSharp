@@ -1,0 +1,14 @@
+D:\HeadFirstC#\Chapter4\ImplicitConversion\ImplicitConversion\bin\Debug\net8.0\ImplicitConversion.exe
+D:\HeadFirstC#\Chapter4\ImplicitConversion\ImplicitConversion\bin\Debug\net8.0\ImplicitConversion.deps.json
+D:\HeadFirstC#\Chapter4\ImplicitConversion\ImplicitConversion\bin\Debug\net8.0\ImplicitConversion.runtimeconfig.json
+D:\HeadFirstC#\Chapter4\ImplicitConversion\ImplicitConversion\bin\Debug\net8.0\ImplicitConversion.dll
+D:\HeadFirstC#\Chapter4\ImplicitConversion\ImplicitConversion\bin\Debug\net8.0\ImplicitConversion.pdb
+D:\HeadFirstC#\Chapter4\ImplicitConversion\ImplicitConversion\obj\Debug\net8.0\ImplicitConversion.GeneratedMSBuildEditorConfig.editorconfig
+D:\HeadFirstC#\Chapter4\ImplicitConversion\ImplicitConversion\obj\Debug\net8.0\ImplicitConversion.AssemblyInfoInputs.cache
+D:\HeadFirstC#\Chapter4\ImplicitConversion\ImplicitConversion\obj\Debug\net8.0\ImplicitConversion.AssemblyInfo.cs
+D:\HeadFirstC#\Chapter4\ImplicitConversion\ImplicitConversion\obj\Debug\net8.0\ImplicitConversion.csproj.CoreCompileInputs.cache
+D:\HeadFirstC#\Chapter4\ImplicitConversion\ImplicitConversion\obj\Debug\net8.0\ImplicitConversion.dll
+D:\HeadFirstC#\Chapter4\ImplicitConversion\ImplicitConversion\obj\Debug\net8.0\refint\ImplicitConversion.dll
+D:\HeadFirstC#\Chapter4\ImplicitConversion\ImplicitConversion\obj\Debug\net8.0\ImplicitConversion.pdb
+D:\HeadFirstC#\Chapter4\ImplicitConversion\ImplicitConversion\obj\Debug\net8.0\ImplicitConversion.genruntimeconfig.cache
+D:\HeadFirstC#\Chapter4\ImplicitConversion\ImplicitConversion\obj\Debug\net8.0\ref\ImplicitConversion.dll
