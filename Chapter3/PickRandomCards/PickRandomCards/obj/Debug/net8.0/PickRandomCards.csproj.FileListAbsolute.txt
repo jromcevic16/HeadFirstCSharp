@@ -1,0 +1,14 @@
+D:\HeadFirstC#\Chapter3\PickRandomCards\PickRandomCards\bin\Debug\net8.0\PickRandomCards.exe
+D:\HeadFirstC#\Chapter3\PickRandomCards\PickRandomCards\bin\Debug\net8.0\PickRandomCards.deps.json
+D:\HeadFirstC#\Chapter3\PickRandomCards\PickRandomCards\bin\Debug\net8.0\PickRandomCards.runtimeconfig.json
+D:\HeadFirstC#\Chapter3\PickRandomCards\PickRandomCards\bin\Debug\net8.0\PickRandomCards.dll
+D:\HeadFirstC#\Chapter3\PickRandomCards\PickRandomCards\bin\Debug\net8.0\PickRandomCards.pdb
+D:\HeadFirstC#\Chapter3\PickRandomCards\PickRandomCards\obj\Debug\net8.0\PickRandomCards.GeneratedMSBuildEditorConfig.editorconfig
+D:\HeadFirstC#\Chapter3\PickRandomCards\PickRandomCards\obj\Debug\net8.0\PickRandomCards.AssemblyInfoInputs.cache
+D:\HeadFirstC#\Chapter3\PickRandomCards\PickRandomCards\obj\Debug\net8.0\PickRandomCards.AssemblyInfo.cs
+D:\HeadFirstC#\Chapter3\PickRandomCards\PickRandomCards\obj\Debug\net8.0\PickRandomCards.csproj.CoreCompileInputs.cache
+D:\HeadFirstC#\Chapter3\PickRandomCards\PickRandomCards\obj\Debug\net8.0\PickRandomCards.dll
+D:\HeadFirstC#\Chapter3\PickRandomCards\PickRandomCards\obj\Debug\net8.0\refint\PickRandomCards.dll
+D:\HeadFirstC#\Chapter3\PickRandomCards\PickRandomCards\obj\Debug\net8.0\PickRandomCards.pdb
+D:\HeadFirstC#\Chapter3\PickRandomCards\PickRandomCards\obj\Debug\net8.0\PickRandomCards.genruntimeconfig.cache
+D:\HeadFirstC#\Chapter3\PickRandomCards\PickRandomCards\obj\Debug\net8.0\ref\PickRandomCards.dll
