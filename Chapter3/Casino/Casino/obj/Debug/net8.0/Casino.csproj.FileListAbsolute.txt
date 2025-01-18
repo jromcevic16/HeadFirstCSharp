@@ -1,0 +1,14 @@
+D:\HeadFirstC#\Chapter3\Casino\Casino\obj\Debug\net8.0\Casino.GeneratedMSBuildEditorConfig.editorconfig
+D:\HeadFirstC#\Chapter3\Casino\Casino\obj\Debug\net8.0\Casino.AssemblyInfoInputs.cache
+D:\HeadFirstC#\Chapter3\Casino\Casino\obj\Debug\net8.0\Casino.AssemblyInfo.cs
+D:\HeadFirstC#\Chapter3\Casino\Casino\obj\Debug\net8.0\Casino.csproj.CoreCompileInputs.cache
+D:\HeadFirstC#\Chapter3\Casino\Casino\bin\Debug\net8.0\Casino.exe
+D:\HeadFirstC#\Chapter3\Casino\Casino\bin\Debug\net8.0\Casino.deps.json
+D:\HeadFirstC#\Chapter3\Casino\Casino\bin\Debug\net8.0\Casino.runtimeconfig.json
+D:\HeadFirstC#\Chapter3\Casino\Casino\bin\Debug\net8.0\Casino.dll
+D:\HeadFirstC#\Chapter3\Casino\Casino\bin\Debug\net8.0\Casino.pdb
+D:\HeadFirstC#\Chapter3\Casino\Casino\obj\Debug\net8.0\Casino.dll
+D:\HeadFirstC#\Chapter3\Casino\Casino\obj\Debug\net8.0\refint\Casino.dll
+D:\HeadFirstC#\Chapter3\Casino\Casino\obj\Debug\net8.0\Casino.pdb
+D:\HeadFirstC#\Chapter3\Casino\Casino\obj\Debug\net8.0\Casino.genruntimeconfig.cache
+D:\HeadFirstC#\Chapter3\Casino\Casino\obj\Debug\net8.0\ref\Casino.dll

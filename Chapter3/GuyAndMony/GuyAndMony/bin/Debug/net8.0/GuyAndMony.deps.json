@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "GuyAndMony/1.0.0": {
+        "runtime": {
+          "GuyAndMony.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GuyAndMony/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+D:\HeadFirstC#\Chapter3\PickACardUI\PickACardUI\bin\Debug\PickACardUI.exe.config
+D:\HeadFirstC#\Chapter3\PickACardUI\PickACardUI\bin\Debug\PickACardUI.exe
+D:\HeadFirstC#\Chapter3\PickACardUI\PickACardUI\bin\Debug\PickACardUI.pdb
+D:\HeadFirstC#\Chapter3\PickACardUI\PickACardUI\obj\Debug\PickACardUI.csproj.AssemblyReference.cache
+D:\HeadFirstC#\Chapter3\PickACardUI\PickACardUI\obj\Debug\MainWindow.g.cs
+D:\HeadFirstC#\Chapter3\PickACardUI\PickACardUI\obj\Debug\App.g.cs
+D:\HeadFirstC#\Chapter3\PickACardUI\PickACardUI\obj\Debug\PickACardUI_MarkupCompile.cache
+D:\HeadFirstC#\Chapter3\PickACardUI\PickACardUI\obj\Debug\PickACardUI_MarkupCompile.lref
+D:\HeadFirstC#\Chapter3\PickACardUI\PickACardUI\obj\Debug\MainWindow.baml
+D:\HeadFirstC#\Chapter3\PickACardUI\PickACardUI\obj\Debug\PickACardUI.g.resources
+D:\HeadFirstC#\Chapter3\PickACardUI\PickACardUI\obj\Debug\PickACardUI.Properties.Resources.resources
+D:\HeadFirstC#\Chapter3\PickACardUI\PickACardUI\obj\Debug\PickACardUI.csproj.GenerateResource.cache
+D:\HeadFirstC#\Chapter3\PickACardUI\PickACardUI\obj\Debug\PickACardUI.csproj.CoreCompileInputs.cache
+D:\HeadFirstC#\Chapter3\PickACardUI\PickACardUI\obj\Debug\PickACardUI.exe
+D:\HeadFirstC#\Chapter3\PickACardUI\PickACardUI\obj\Debug\PickACardUI.pdb

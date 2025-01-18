@@ -1,0 +1,14 @@
+D:\HeadFirstC#\Chapter3\GuyAndMony\GuyAndMony\bin\Debug\net8.0\GuyAndMony.exe
+D:\HeadFirstC#\Chapter3\GuyAndMony\GuyAndMony\bin\Debug\net8.0\GuyAndMony.deps.json
+D:\HeadFirstC#\Chapter3\GuyAndMony\GuyAndMony\bin\Debug\net8.0\GuyAndMony.runtimeconfig.json
+D:\HeadFirstC#\Chapter3\GuyAndMony\GuyAndMony\bin\Debug\net8.0\GuyAndMony.dll
+D:\HeadFirstC#\Chapter3\GuyAndMony\GuyAndMony\bin\Debug\net8.0\GuyAndMony.pdb
+D:\HeadFirstC#\Chapter3\GuyAndMony\GuyAndMony\obj\Debug\net8.0\GuyAndMony.GeneratedMSBuildEditorConfig.editorconfig
+D:\HeadFirstC#\Chapter3\GuyAndMony\GuyAndMony\obj\Debug\net8.0\GuyAndMony.AssemblyInfoInputs.cache
+D:\HeadFirstC#\Chapter3\GuyAndMony\GuyAndMony\obj\Debug\net8.0\GuyAndMony.AssemblyInfo.cs
+D:\HeadFirstC#\Chapter3\GuyAndMony\GuyAndMony\obj\Debug\net8.0\GuyAndMony.csproj.CoreCompileInputs.cache
+D:\HeadFirstC#\Chapter3\GuyAndMony\GuyAndMony\obj\Debug\net8.0\GuyAndMony.dll
+D:\HeadFirstC#\Chapter3\GuyAndMony\GuyAndMony\obj\Debug\net8.0\refint\GuyAndMony.dll
+D:\HeadFirstC#\Chapter3\GuyAndMony\GuyAndMony\obj\Debug\net8.0\GuyAndMony.pdb
+D:\HeadFirstC#\Chapter3\GuyAndMony\GuyAndMony\obj\Debug\net8.0\GuyAndMony.genruntimeconfig.cache
+D:\HeadFirstC#\Chapter3\GuyAndMony\GuyAndMony\obj\Debug\net8.0\ref\GuyAndMony.dll
