@@ -1,0 +1,15 @@
+D:\projects\HeadFIrstCSharp\Chapter4\RandomTestDrive\RandomTestDrive\bin\Debug\net8.0\RandomTestDrive.exe
+D:\projects\HeadFIrstCSharp\Chapter4\RandomTestDrive\RandomTestDrive\bin\Debug\net8.0\RandomTestDrive.deps.json
+D:\projects\HeadFIrstCSharp\Chapter4\RandomTestDrive\RandomTestDrive\bin\Debug\net8.0\RandomTestDrive.runtimeconfig.json
+D:\projects\HeadFIrstCSharp\Chapter4\RandomTestDrive\RandomTestDrive\bin\Debug\net8.0\RandomTestDrive.dll
+D:\projects\HeadFIrstCSharp\Chapter4\RandomTestDrive\RandomTestDrive\bin\Debug\net8.0\RandomTestDrive.pdb
+D:\projects\HeadFIrstCSharp\Chapter4\RandomTestDrive\RandomTestDrive\obj\Debug\net8.0\RandomTestDrive.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\HeadFIrstCSharp\Chapter4\RandomTestDrive\RandomTestDrive\obj\Debug\net8.0\RandomTestDrive.AssemblyInfoInputs.cache
+D:\projects\HeadFIrstCSharp\Chapter4\RandomTestDrive\RandomTestDrive\obj\Debug\net8.0\RandomTestDrive.AssemblyInfo.cs
+D:\projects\HeadFIrstCSharp\Chapter4\RandomTestDrive\RandomTestDrive\obj\Debug\net8.0\RandomTestDrive.csproj.CoreCompileInputs.cache
+D:\projects\HeadFIrstCSharp\Chapter4\RandomTestDrive\RandomTestDrive\obj\Debug\net8.0\RandomTestDrive.sourcelink.json
+D:\projects\HeadFIrstCSharp\Chapter4\RandomTestDrive\RandomTestDrive\obj\Debug\net8.0\RandomTestDrive.dll
+D:\projects\HeadFIrstCSharp\Chapter4\RandomTestDrive\RandomTestDrive\obj\Debug\net8.0\refint\RandomTestDrive.dll
+D:\projects\HeadFIrstCSharp\Chapter4\RandomTestDrive\RandomTestDrive\obj\Debug\net8.0\RandomTestDrive.pdb
+D:\projects\HeadFIrstCSharp\Chapter4\RandomTestDrive\RandomTestDrive\obj\Debug\net8.0\RandomTestDrive.genruntimeconfig.cache
+D:\projects\HeadFIrstCSharp\Chapter4\RandomTestDrive\RandomTestDrive\obj\Debug\net8.0\ref\RandomTestDrive.dll
