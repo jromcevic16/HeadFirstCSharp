@@ -1,0 +1,15 @@
+D:\projects\HeadFIrstCSharp\Chapter5\Paintball\Paintball\bin\Debug\net8.0\Paintball.exe
+D:\projects\HeadFIrstCSharp\Chapter5\Paintball\Paintball\bin\Debug\net8.0\Paintball.deps.json
+D:\projects\HeadFIrstCSharp\Chapter5\Paintball\Paintball\bin\Debug\net8.0\Paintball.runtimeconfig.json
+D:\projects\HeadFIrstCSharp\Chapter5\Paintball\Paintball\bin\Debug\net8.0\Paintball.dll
+D:\projects\HeadFIrstCSharp\Chapter5\Paintball\Paintball\bin\Debug\net8.0\Paintball.pdb
+D:\projects\HeadFIrstCSharp\Chapter5\Paintball\Paintball\obj\Debug\net8.0\Paintball.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\HeadFIrstCSharp\Chapter5\Paintball\Paintball\obj\Debug\net8.0\Paintball.AssemblyInfoInputs.cache
+D:\projects\HeadFIrstCSharp\Chapter5\Paintball\Paintball\obj\Debug\net8.0\Paintball.AssemblyInfo.cs
+D:\projects\HeadFIrstCSharp\Chapter5\Paintball\Paintball\obj\Debug\net8.0\Paintball.csproj.CoreCompileInputs.cache
+D:\projects\HeadFIrstCSharp\Chapter5\Paintball\Paintball\obj\Debug\net8.0\Paintball.sourcelink.json
+D:\projects\HeadFIrstCSharp\Chapter5\Paintball\Paintball\obj\Debug\net8.0\Paintball.dll
+D:\projects\HeadFIrstCSharp\Chapter5\Paintball\Paintball\obj\Debug\net8.0\refint\Paintball.dll
+D:\projects\HeadFIrstCSharp\Chapter5\Paintball\Paintball\obj\Debug\net8.0\Paintball.pdb
+D:\projects\HeadFIrstCSharp\Chapter5\Paintball\Paintball\obj\Debug\net8.0\Paintball.genruntimeconfig.cache
+D:\projects\HeadFIrstCSharp\Chapter5\Paintball\Paintball\obj\Debug\net8.0\ref\Paintball.dll
