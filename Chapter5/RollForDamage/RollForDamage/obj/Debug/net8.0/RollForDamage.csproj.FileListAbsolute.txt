@@ -1,0 +1,15 @@
+D:\projects\HeadFIrstCSharp\Chapter5\RollForDamage\RollForDamage\bin\Debug\net8.0\RollForDamage.exe
+D:\projects\HeadFIrstCSharp\Chapter5\RollForDamage\RollForDamage\bin\Debug\net8.0\RollForDamage.deps.json
+D:\projects\HeadFIrstCSharp\Chapter5\RollForDamage\RollForDamage\bin\Debug\net8.0\RollForDamage.runtimeconfig.json
+D:\projects\HeadFIrstCSharp\Chapter5\RollForDamage\RollForDamage\bin\Debug\net8.0\RollForDamage.dll
+D:\projects\HeadFIrstCSharp\Chapter5\RollForDamage\RollForDamage\bin\Debug\net8.0\RollForDamage.pdb
+D:\projects\HeadFIrstCSharp\Chapter5\RollForDamage\RollForDamage\obj\Debug\net8.0\RollForDamage.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\HeadFIrstCSharp\Chapter5\RollForDamage\RollForDamage\obj\Debug\net8.0\RollForDamage.AssemblyInfoInputs.cache
+D:\projects\HeadFIrstCSharp\Chapter5\RollForDamage\RollForDamage\obj\Debug\net8.0\RollForDamage.AssemblyInfo.cs
+D:\projects\HeadFIrstCSharp\Chapter5\RollForDamage\RollForDamage\obj\Debug\net8.0\RollForDamage.csproj.CoreCompileInputs.cache
+D:\projects\HeadFIrstCSharp\Chapter5\RollForDamage\RollForDamage\obj\Debug\net8.0\RollForDamage.sourcelink.json
+D:\projects\HeadFIrstCSharp\Chapter5\RollForDamage\RollForDamage\obj\Debug\net8.0\RollForDamage.dll
+D:\projects\HeadFIrstCSharp\Chapter5\RollForDamage\RollForDamage\obj\Debug\net8.0\refint\RollForDamage.dll
+D:\projects\HeadFIrstCSharp\Chapter5\RollForDamage\RollForDamage\obj\Debug\net8.0\RollForDamage.pdb
+D:\projects\HeadFIrstCSharp\Chapter5\RollForDamage\RollForDamage\obj\Debug\net8.0\RollForDamage.genruntimeconfig.cache
+D:\projects\HeadFIrstCSharp\Chapter5\RollForDamage\RollForDamage\obj\Debug\net8.0\ref\RollForDamage.dll

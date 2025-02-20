@@ -1,0 +1,15 @@
+D:\projects\HeadFIrstCSharp\Chapter5\Hi_Lo\Hi_Lo\obj\Debug\net8.0\Hi_Lo.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\HeadFIrstCSharp\Chapter5\Hi_Lo\Hi_Lo\obj\Debug\net8.0\Hi_Lo.AssemblyInfoInputs.cache
+D:\projects\HeadFIrstCSharp\Chapter5\Hi_Lo\Hi_Lo\obj\Debug\net8.0\Hi_Lo.AssemblyInfo.cs
+D:\projects\HeadFIrstCSharp\Chapter5\Hi_Lo\Hi_Lo\obj\Debug\net8.0\Hi_Lo.csproj.CoreCompileInputs.cache
+D:\projects\HeadFIrstCSharp\Chapter5\Hi_Lo\Hi_Lo\obj\Debug\net8.0\Hi_Lo.sourcelink.json
+D:\projects\HeadFIrstCSharp\Chapter5\Hi_Lo\Hi_Lo\bin\Debug\net8.0\Hi_Lo.exe
+D:\projects\HeadFIrstCSharp\Chapter5\Hi_Lo\Hi_Lo\bin\Debug\net8.0\Hi_Lo.deps.json
+D:\projects\HeadFIrstCSharp\Chapter5\Hi_Lo\Hi_Lo\bin\Debug\net8.0\Hi_Lo.runtimeconfig.json
+D:\projects\HeadFIrstCSharp\Chapter5\Hi_Lo\Hi_Lo\bin\Debug\net8.0\Hi_Lo.dll
+D:\projects\HeadFIrstCSharp\Chapter5\Hi_Lo\Hi_Lo\bin\Debug\net8.0\Hi_Lo.pdb
+D:\projects\HeadFIrstCSharp\Chapter5\Hi_Lo\Hi_Lo\obj\Debug\net8.0\Hi_Lo.dll
+D:\projects\HeadFIrstCSharp\Chapter5\Hi_Lo\Hi_Lo\obj\Debug\net8.0\refint\Hi_Lo.dll
+D:\projects\HeadFIrstCSharp\Chapter5\Hi_Lo\Hi_Lo\obj\Debug\net8.0\Hi_Lo.pdb
+D:\projects\HeadFIrstCSharp\Chapter5\Hi_Lo\Hi_Lo\obj\Debug\net8.0\Hi_Lo.genruntimeconfig.cache
+D:\projects\HeadFIrstCSharp\Chapter5\Hi_Lo\Hi_Lo\obj\Debug\net8.0\ref\Hi_Lo.dll
