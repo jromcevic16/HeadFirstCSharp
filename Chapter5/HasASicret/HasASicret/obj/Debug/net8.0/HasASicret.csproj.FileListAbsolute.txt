@@ -1,0 +1,15 @@
+D:\projects\HeadFIrstCSharp\Chapter5\HasASicret\HasASicret\bin\Debug\net8.0\HasASicret.exe
+D:\projects\HeadFIrstCSharp\Chapter5\HasASicret\HasASicret\bin\Debug\net8.0\HasASicret.deps.json
+D:\projects\HeadFIrstCSharp\Chapter5\HasASicret\HasASicret\bin\Debug\net8.0\HasASicret.runtimeconfig.json
+D:\projects\HeadFIrstCSharp\Chapter5\HasASicret\HasASicret\bin\Debug\net8.0\HasASicret.dll
+D:\projects\HeadFIrstCSharp\Chapter5\HasASicret\HasASicret\bin\Debug\net8.0\HasASicret.pdb
+D:\projects\HeadFIrstCSharp\Chapter5\HasASicret\HasASicret\obj\Debug\net8.0\HasASicret.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\HeadFIrstCSharp\Chapter5\HasASicret\HasASicret\obj\Debug\net8.0\HasASicret.AssemblyInfoInputs.cache
+D:\projects\HeadFIrstCSharp\Chapter5\HasASicret\HasASicret\obj\Debug\net8.0\HasASicret.AssemblyInfo.cs
+D:\projects\HeadFIrstCSharp\Chapter5\HasASicret\HasASicret\obj\Debug\net8.0\HasASicret.csproj.CoreCompileInputs.cache
+D:\projects\HeadFIrstCSharp\Chapter5\HasASicret\HasASicret\obj\Debug\net8.0\HasASicret.sourcelink.json
+D:\projects\HeadFIrstCSharp\Chapter5\HasASicret\HasASicret\obj\Debug\net8.0\HasASicret.dll
+D:\projects\HeadFIrstCSharp\Chapter5\HasASicret\HasASicret\obj\Debug\net8.0\refint\HasASicret.dll
+D:\projects\HeadFIrstCSharp\Chapter5\HasASicret\HasASicret\obj\Debug\net8.0\HasASicret.pdb
+D:\projects\HeadFIrstCSharp\Chapter5\HasASicret\HasASicret\obj\Debug\net8.0\HasASicret.genruntimeconfig.cache
+D:\projects\HeadFIrstCSharp\Chapter5\HasASicret\HasASicret\obj\Debug\net8.0\ref\HasASicret.dll
