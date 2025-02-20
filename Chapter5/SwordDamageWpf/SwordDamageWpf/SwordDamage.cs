@@ -9,38 +9,57 @@ namespace SwordDamageWpf
 {
     public class SwordDamage
     {
+        public static Random random = new Random();
         public const int BASE_DAMAGE = 3;
         public const int FLAME_DAMAGE = 2;
-        public int Roll;
-        private decimal magicMultiplier = 1M;
-        private int flamingDamage = 0;
-        public int Damage;
+        private int roll;
+        public int Roll
+        {
+            get { return roll; }
+            set
+            {
+                roll = value;
+                CalculateDamage();
+            }
+        }
+        private bool flaming;
+        public bool Flaming
+        {
+            get { return flaming; }
+            set
+            {
+                flaming = value;
+                CalculateDamage();
+            }
+        }
+        private bool magic;
+        public bool Magic
+        {
+            get { return magic; }
+            set
+            {
+                magic = value;
+                CalculateDamage();
+            }
+        }
+        public int Damage { get; private set; }
+        public SwordDamage(int roll)
+        {
+            this.roll = roll;
+            CalculateDamage();
+        }
         private void CalculateDamage()
         {
-            Damage = (int)(Roll * magicMultiplier) + BASE_DAMAGE + flamingDamage;
-            Debug.WriteLine($"CalculatedDamage finished: {Damage} (roll: {Roll})");
+            decimal magicMultiplier = 1M;
+            if (magic) magicMultiplier = 1.75M;
+
+            Damage = BASE_DAMAGE;
+            Damage = (int)(Roll * magicMultiplier) + BASE_DAMAGE;
+            if (flaming) Damage += FLAME_DAMAGE;
         }
-        public void SetMagic(bool isMagic)
+        public static int RollDice()
         {
-            if (isMagic)
-            {
-                magicMultiplier = 1.75M;
-            }
-            else
-            {
-                magicMultiplier = 1M;
-            }
-            CalculateDamage();
-            Debug.WriteLine($"SetMagic finished: {Damage} (roll: {Roll})");
-        }
-        public void SetFlaming(bool isFlaming)
-        {
-            CalculateDamage();
-            if (isFlaming)
-            {
-                Damage += FLAME_DAMAGE;
-            }
-            Debug.WriteLine($"SetFlaming finished: {Damage} (roll: {Roll})");
+            return random.Next(1, 7) + random.Next(1, 7) + random.Next(1, 7);
         }
     }
 }

@@ -16,7 +16,7 @@
             <ColumnDefinition/>
             <ColumnDefinition/>
         </Grid.ColumnDefinitions>
-        <CheckBox x:Name="flaming" Content="Flaming" HorizontalAlignment="Center" VerticalAlignment="Center" Checked="Flaming_Checked" Unchecked="flaming_Unchecked"/>
+        <CheckBox x:Name="flaming" Content="Flaming" HorizontalAlignment="Center" VerticalAlignment="Center" Checked="Flaming_Checked" Unchecked="Flaming_Unchecked"/>
         <CheckBox x:Name="magic" Content="Magic" Grid.Column="1" HorizontalAlignment="Center" VerticalAlignment="Center" Checked="Magic_Checked" Unchecked="Magic_Unchecked"/>
         <Button Grid.Row="1" Grid.ColumnSpan="2" Margin="20,10" Content="Roll for damage" Click="Button_Click"/>
         <TextBlock x:Name="damage" Grid.Row="2" Grid.ColumnSpan="2" Text="damage" VerticalAlignment="Center" HorizontalAlignment="Center"/>

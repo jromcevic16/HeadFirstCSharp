@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SwordDamageWpf")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b4561a02ff966b6c33c5df57383fdffbeab08ce5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c7e90202b79f6f8356f46af390190e2ba8700104")]
 [assembly: System.Reflection.AssemblyProductAttribute("SwordDamageWpf")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SwordDamageWpf")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
