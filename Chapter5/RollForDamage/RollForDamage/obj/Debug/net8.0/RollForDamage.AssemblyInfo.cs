@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RollForDamage")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b4561a02ff966b6c33c5df57383fdffbeab08ce5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cdff050905fb3a2b8d00a9b69528fe1e85e9a123")]
 [assembly: System.Reflection.AssemblyProductAttribute("RollForDamage")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RollForDamage")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
