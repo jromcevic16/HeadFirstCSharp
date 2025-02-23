@@ -13,7 +13,10 @@ namespace Bird
             Egg[] eggs = new Egg[numberOfEggs];
             for (int i = 0; i < numberOfEggs; i++)
             {
-                eggs[i] = new Egg(Randomizer.NextDouble()*2+1, "white");
+                if(Bird.Randomizer.Next(4) == 0)
+                    eggs[i] = new BrokenEgg("white");
+                else
+                    eggs[i] = new Egg(Randomizer.NextDouble()*2+1, "white");
             }
             return eggs;
         }
