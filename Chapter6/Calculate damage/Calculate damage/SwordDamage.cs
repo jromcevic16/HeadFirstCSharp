@@ -6,48 +6,16 @@ using System.Threading.Tasks;
 
 namespace Calculate_damage
 {
-    public class SwordDamage
+    public class SwordDamage : WeponeDamage
     {
-        public const int BASE_DAMAGE = 3;
-        public const int FLAME_DAMAGE = 2;
-        private int roll;
-        public int Roll
+        public int BASE_DAMAGE = 3;
+        public int FLAME_DAMAGE = 2;
+        public SwordDamage(int roll) : base(roll)
         {
-            get { return roll; }
-            set
-            {
-                roll = value;
-                CalculateDamage();
-            }
         }
-        private bool flaming;
-        public bool Flaming
+        protected override void CalculateDamage()
         {
-            get { return flaming; }
-            set
-            {
-                flaming = value;
-                CalculateDamage();
-            }
-        }
-        private bool magic;
-        public bool Magic
-        {
-            get { return magic; }
-            set
-            {
-                magic = value;
-                CalculateDamage();
-            }
-        }
-        public int Damage { get; private set; }
-        public SwordDamage(int roll)
-        {
-            this.roll = roll;
-            CalculateDamage();
-        }
-        private void CalculateDamage()
-        {
+        
             decimal magicMultiplier = 1M;
             if (magic) magicMultiplier = 1.75M;
 
