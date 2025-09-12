@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Calculate_damage
 {
-    public class WeponeDamage
+    public abstract class WeponeDamage
     {
 
         protected int roll;
@@ -45,9 +45,6 @@ namespace Calculate_damage
             this.roll = roll;
             CalculateDamage();
         }
-        protected virtual void CalculateDamage()
-        {
-            // the subclass overrides this
-        }
+        protected abstract void CalculateDamage();
     }
 }
