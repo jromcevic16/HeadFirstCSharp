@@ -10,7 +10,7 @@ namespace BeehiveManagmentSystem
     public abstract class Bee
     {
         public readonly string job;
-        public virtual float CostPerShift { get; private set; }
+        public abstract float CostPerShift { get; }
         public Bee(string job)
         {
             this.job = job;
