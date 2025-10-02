@@ -1,18 +1,23 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Xml.Linq;
 
 namespace BeehiveManagmentSystem
 {
-    public class Queen : Bee
+    public class Queen : Bee, INotifyPropertyChanged
     {
-        private Bee[] workers = new Bee[0];
+        private IWorker[] workers = new IWorker[0];
         private float eggs = 0;
         private float unassignedWorkers = 3;
         private const float EGGS_PER_SHIFT = 0.45f;
         private const float HONEY_PER_UNASSIGNED_WORKER = 0.5f;
+
+        public event PropertyChangedEventHandler? PropertyChanged;
+
         public string StatusReport { get; private set; }
         public override float CostPerShift { get { return 2.15f; } }
         public Queen(): base("Queen")
@@ -24,9 +29,9 @@ namespace BeehiveManagmentSystem
         protected override void DoJob()
         {
             eggs += EGGS_PER_SHIFT;
-            foreach(Bee bee in workers)
+            foreach(IWorker worker in workers)
             {
-                bee.WorkTheNextShift();
+                worker.WorkTheNextShift();
             }
             HoneyVault.ConsumeHoney(HONEY_PER_UNASSIGNED_WORKER * workers.Length);
             UpdateStatusReport();
@@ -57,7 +62,7 @@ namespace BeehiveManagmentSystem
                 unassignedWorkers += eggsToConvert;
             }
         }
-        private void AddWorker(Bee worker)
+        private void AddWorker(IWorker worker)
         {
             if(unassignedWorkers >= 1)
             {
@@ -70,9 +75,9 @@ namespace BeehiveManagmentSystem
         {
             int count = 0;
             string s = "";
-            foreach(Bee bee in workers)
+            foreach(IWorker bee in workers)
             {
-                if(bee.job == job)
+                if(bee.Job == job)
                 {
                     count++;
                 }
@@ -81,6 +86,12 @@ namespace BeehiveManagmentSystem
                 s = "s";
             return $"{count} {job} bee{s}";
         }
+
+        protected void OnPropertyChanged(string name)
+        {
+            PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(name));
+        }
+
         public void UpdateStatusReport()
         {
             StatusReport = $"{HoneyVault.StatusReport} \n" +
@@ -90,6 +101,7 @@ namespace BeehiveManagmentSystem
                    $"{WorkerStatus("Honey Manufacturer")}\n" +
                    $"{WorkerStatus("Egg Care")}\n"+
                    $"TOTAL WORKERS: {workers.Length}";
+            OnPropertyChanged("StatusReport");
         }
     }
 }
