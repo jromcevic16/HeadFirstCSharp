@@ -7,13 +7,13 @@ using System.Windows.Controls;
 
 namespace BeehiveManagmentSystem
 {
-    public abstract class Bee
+    public abstract class Bee : IWorker
     {
-        public readonly string job;
+        public string Job { get; }
         public abstract float CostPerShift { get; }
         public Bee(string job)
         {
-            this.job = job;
+            this.Job = job;
         }
         public void WorkTheNextShift()
         {
