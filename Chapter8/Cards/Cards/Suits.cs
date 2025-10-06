@@ -8,9 +8,9 @@ namespace Cards
 {
     enum Suits
     {
-        Spades,
-        Clubs,
         Diamonds,
+        Clubs,
         Hearts,
+        Spades,
     }
 }

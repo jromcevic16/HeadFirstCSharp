@@ -16,5 +16,9 @@ namespace Cards
             Value = value;
             Suit = suit;
         }
+        public override string ToString()
+        {
+            return Name;
+        }
     }
 }
