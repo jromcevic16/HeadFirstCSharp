@@ -1,0 +1,16 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace JimmyLinq
+{
+    public class Review
+    {
+        public int Issue { get; set; }
+        public Critics Critic { get; set; }
+        public Double Score {  get; set; }
+
+    }
+}
